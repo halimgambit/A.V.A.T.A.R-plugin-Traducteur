@@ -21,7 +21,7 @@ The Traducteur plugin relies solely on the system's available languages.
     <td style="border: none;"><img src="Traducteur/assets/images/Traducteur.png" alt="Traducteur Logo" width="120"></td>
     <td style="border: none;">
       <h1 style="margin: 0;color: brown;">Traducteur</h1>
-      <h3 style="margin: 0;">Translate multilanguage/h3>
+      <h3 style="margin: 0;">Translate multilanguage</h3>
     </td>
   </tr>
 </table>
