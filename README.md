@@ -1,2 +1,27 @@
 # Traducteur
-Traducteur transforme A.V.A.T.A.R en assistant multilingue.  Traduisez instantanément des mots ou des phrases dans plusieurs langues grâce à de simples commandes vocales. Le plugin détecte automatiquement la langue cible demandée et permet de traduire du français vers l'anglais, l'allemand, l'espagnol, l'italien, l'arabe et bien d'autres langues.  Grâce à son système de compréhension avancé, il accepte différentes formulations naturelles comme « traduis bonjour en anglais », « traduit le mot ordinateur en allemand » ou « traduis-moi cette phrase en espagnol ». Le plugin nettoie intelligemment les commandes vocales afin d'obtenir des traductions fiables même avec les variations de langage parlé.
+Traducteur transforme A.V.A.T.A.R en assistant multilingue.
+
+- This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework.
+
+- Commandes vocales (standard):
+- traduit en anglais je part maintenant, traduit je mange en allemand
+
+
+✅ compatible multi-client
+
+# Multi-room
+The Traducteur plugin is fully multi-room.
+
+# Multi-language
+The Traducteur plugin relies solely on the system's available languages.
+
+
+ <table style="border: none;">
+  <tr>
+    <td style="border: none;"><img src="Traducteur/assets/images/Traducteur.png" alt="Traducteur Logo" width="120"></td>
+    <td style="border: none;">
+      <h1 style="margin: 0;color: brown;">Traducteur</h1>
+      <h3 style="margin: 0;">Translate multilanguage/h3>
+    </td>
+  </tr>
+</table>
