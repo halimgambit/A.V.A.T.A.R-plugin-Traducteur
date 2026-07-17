@@ -1,0 +1,8 @@
+{
+  "speech": {
+    "translate": "Voici la traduction $$ : $$",
+    "empty": "La phrase transmise est vide.",
+    "notext": "Je n'ai pas trouvé le texte à traduire.",
+    "error": "Désolé, je rencontre une erreur avec le service de traduction."
+  }
+}

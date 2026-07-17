@@ -1,0 +1,8 @@
+{
+  speech: {
+    "translate": "Here is the translation $$: $$",
+    "empty": "The sentence transmitted is empty.",
+    "notext": "I didn’t find the text to translate.",
+    "error": "Sorry, I’m experiencing an error with the translation service."
+  }
+}
