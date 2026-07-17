@@ -1,5 +1,0 @@
-Traducteur transforme A.V.A.T.A.R en assistant multilingue.
-
-Traduisez instantanément des mots ou des phrases dans plusieurs langues grâce à de simples commandes vocales. Le plugin détecte automatiquement la langue cible demandée et permet de traduire du français vers l'anglais, l'allemand, l'espagnol, l'italien, l'arabe et bien d'autres langues.
-
-Grâce à son système de compréhension avancé, il accepte différentes formulations naturelles comme « traduis bonjour en anglais », « traduit le mot ordinateur en allemand » ou « traduis-moi cette phrase en espagnol ». Le plugin nettoie intelligemment les commandes vocales afin d'obtenir des traductions fiables même avec les variations de langage parlé.
