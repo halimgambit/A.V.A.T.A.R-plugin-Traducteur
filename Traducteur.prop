@@ -1,9 +1,0 @@
-{"modules":{
-    "Traducteur":{
-    "version":"1.0",
-    "name":"Traducteur",
-    "languageLabel": "fr",
-    "rules":{"translate":["translate","translated"]
-    },
-    "active":true
-    }}}
